@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 26B1-5C21
+
+ Directory of C:\Users\lasya\OneDrive\Desktop\MyProject
+
+21-11-2020  07:11    <DIR>          .
+21-11-2020  07:11    <DIR>          ..
+18-11-2020  16:32               401 index.html
+18-11-2020  16:30               363 test.txt
+21-11-2020  07:11                 0 test2.txt
+               3 File(s)            764 bytes
+               2 Dir(s)  931,725,885,440 bytes free
